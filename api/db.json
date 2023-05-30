@@ -1,0 +1,116 @@
+{
+    "staffs": [
+      {
+        "id": 1,
+        "jobId": 2,
+        "staffName": "Chai", 
+        "staffSurname":"Adams" ,
+        "image":"images/staff1.png"
+      },
+      {
+        "id": 2,
+        "jobId": 1,
+        "staffName": "Ahmed", 
+        "staffSurname":"Cooper" ,
+        "image":"images/staff2.png"
+        },
+        {
+          "id": 3,
+          "jobId": 1,
+          "staffName": "Michelle", 
+          "staffSurname":"Stephen" ,
+          "image":"images/staff3.png"
+          },
+     
+      {
+        "id": 4,
+        "jobId": 2,
+        "staffName": "Rabkin", 
+        "staffSurname":"Cunningham" ,
+        "image":"images/staff4.png"
+       },
+       {
+        "id": 5,
+        "jobId": 1,
+        "staffName": "Catherine", 
+        "staffSurname":"Benedict" ,
+        "image":"images/staff5.png"
+        },
+     
+      {
+        "id": 6,
+        "jobId": 4,
+        "staffName": "Barker", 
+        "staffSurname":"Hailam" ,
+        "image":"images/staff6.png"
+       },
+       {
+        "id": 7,
+        "jobId": 3,
+        "staffName": "Shea", 
+        "staffSurname":"Smith" ,
+        "image":"images/staff7.png"
+       },
+      {
+        "id": 8,
+        "jobId": 4,
+        "staffName": "Robert", 
+        "staffSurname":"Nevin" ,
+        "image":"images/staff8.png"
+       },
+      
+      {
+        "id": 9,
+        "jobId": 3,
+        "staffName": "Romero", 
+        "staffSurname":"Brenin" ,
+        "image":"images/staff9.png"
+        },
+        {
+          "id": 10,
+          "jobId": 3,
+          "staffName": "Irene", 
+          "staffSurname":"Yeo" ,
+          "image":"images/staff10.png"
+          },
+      {
+        "id": 11,
+        "jobId": 4,
+        "staffName": "Anthony", 
+        "staffSurname":"Lucius" ,
+        "image":"images/staff11.png"
+        },
+      {
+        "id": 12,
+        "jobId": 4,
+        "staffName": "Mary Anne", 
+        "staffSurname":"Doe" ,
+        "image":"images/staff12.png"
+        }
+      
+    ],
+  
+    "jobtitles": [
+      {
+        "id": 1,
+        "jobTitle": "PR"
+       
+      },
+      {
+        "id": 2,
+        "jobTitle": "Tech"
+       
+      },
+      {
+        "id": 3,
+        "jobTitle": "Office Clerk"
+       
+      },
+      {
+        "id": 4,
+        "jobTitle": "Designer"
+      
+      }
+      
+    ]
+  }
